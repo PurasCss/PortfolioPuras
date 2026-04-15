@@ -2159,6 +2159,7 @@ button,
       #banner h1 br {
         display: none; }
       #banner .content {
+		  text-align: center;
         -moz-flex-grow: 0;
         -webkit-flex-grow: 0;
         -ms-flex-grow: 0;
