@@ -2117,6 +2117,7 @@ button,
   #banner h1 {
     margin-top: -0.125em; }
   #banner .content {
+	text-align: center;
     -moz-flex-grow: 1;
     -webkit-flex-grow: 1;
     -ms-flex-grow: 1;
