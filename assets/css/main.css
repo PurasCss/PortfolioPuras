@@ -2153,8 +2153,8 @@ button,
       object-position: center;
       width: 100%; }
 #banner .image.main {
-    display: flex;
-    justify-content: center;
+    display: block;
+    margin: 0 auto;
 }
   @media screen and (orientation: portrait) {
     #banner {
