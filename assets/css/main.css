@@ -2279,3 +2279,33 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+.project-overview {
+    padding: 40px 0;
+}
+
+.overview-container {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    background: #f5f5f5;
+    padding: 40px;
+    border-radius: 16px;
+}
+
+.overview-image img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+}
+
+.overview-text {
+    max-width: 500px;
+}
+
+.overview-text h2 {
+    margin-bottom: 16px;
+}
+
+.overview-text p {
+    margin-bottom: 12px;
+}
