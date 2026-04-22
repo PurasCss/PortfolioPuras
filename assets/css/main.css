@@ -2310,12 +2310,20 @@ button,
     margin-bottom: 12px;
 }
 
-.single-block {
+.big-container {
     background: #f5f5f5;
-    padding: 30px;
+    padding: 40px;
     border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.single-block {
     margin-bottom: 40px;
     text-align: center;
+}
+
+.single-block:last-child {
+    margin-bottom: 0;
 }
 
 .single-block img {
