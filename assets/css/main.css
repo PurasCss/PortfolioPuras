@@ -2281,6 +2281,7 @@ button,
     padding-top: 0; }
 
 .project-overview {
+	display: flex;
     justify-content: center;
 }
 
