@@ -2281,9 +2281,7 @@ button,
     padding-top: 0; }
 
 .project-overview {
-    display: flex;
     justify-content: center;
-    border: 2px solid red;
 }
 
 .overview-container {
