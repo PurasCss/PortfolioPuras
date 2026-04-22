@@ -2279,8 +2279,10 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
 .project-overview {
-    padding: 40px 0;
+    display: flex;
+    justify-content: center;
 }
 
 .overview-container {
