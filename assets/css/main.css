@@ -2293,6 +2293,17 @@ button,
     }
 }
 
+@media screen and (max-width: 768px) {
+    .overview-text {
+        max-width: 100%;
+    }
+
+    .overview-image img {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+}
+
 .overview-container {
     display: flex;
     align-items: center;
