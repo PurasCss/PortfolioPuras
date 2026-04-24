@@ -2283,7 +2283,7 @@ button,
 .project-overview {
 	display: flex;
     justify-content: center;
-	padding: 0px 0;
+	padding: 0px 0; !important
 }
 
 @media screen and (max-width: 768px) {
