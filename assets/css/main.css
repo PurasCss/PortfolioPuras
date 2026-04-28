@@ -2368,6 +2368,8 @@ button,
     background: #f5f5f5;
     padding: 40px;
     border-radius: 16px;
+	max-width: 1000px;
+    width: 100%;
 }
 
 .decision-block {
