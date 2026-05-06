@@ -1522,7 +1522,7 @@ button,
   input[type="button"]:active,
   button:active,
   .button:active {
-    background-color: rgba(245, 106, 106, 0.15); }
+    background-color: rgba(95, 93, 99, 0.15); }
   input[type="submit"].icon:before,
   input[type="reset"].icon:before,
   input[type="button"].icon:before,
