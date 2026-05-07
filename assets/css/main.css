@@ -1554,7 +1554,7 @@ button,
   input[type="button"].primary,
   button.primary,
   .button.primary {
-    background-color: #f56a6a; 
+    background-color: #8eb8e2; 
     box-shadow: none;
     color: #ffffff !important; } /*color del fondo*/
     input[type="submit"].primary:hover,
