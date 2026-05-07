@@ -1516,7 +1516,7 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: #c9dbed; } /*HOVER*/
+    background-color: #e6eef7; } /*HOVER*/
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
