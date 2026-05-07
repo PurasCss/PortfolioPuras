@@ -1496,8 +1496,8 @@ button,
   background-color: transparent;
   border-radius: 0.375em;
   border: 0;
-  box-shadow: inset 0 0 0 2px #000000; /*ACA VAN EL DELINEADO*/
-  color: #000000 !important; /*EL TEXTO*/
+  box-shadow: inset 0 0 0 2px #8eb8e2; /*ACA VAN EL DELINEADO*/
+  color: #51575b !important; /*EL TEXTO*/
   cursor: pointer;
   display: inline-block;
   font-family: "Roboto Slab", serif;
