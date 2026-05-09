@@ -109,6 +109,7 @@ body, input, select, textarea {
       font-size: 9pt; } }
 
 a {
+	font-family: "Montserrat", sans-serif !important;
   -moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   -webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
