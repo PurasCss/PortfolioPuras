@@ -2317,8 +2317,12 @@ button,
     border-radius: 16px;
 }
 
-.overview-image img {
-	justify-content: center; 
+.overview-image {
+    display: flex;
+    justify-content: center;
+}
+
+.overview-image img { 
     width: 100%;
     max-width: 900px;
     height: auto;
